@@ -1,2 +1,2 @@
 # Test-task
-Test task for Tenzor company
+Example for UI Test
